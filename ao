@@ -1,0 +1,6 @@
+echo "# ao-spain-battle" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remote add origin https://github.com/agonzgom/ao-spain-battle.git
+ git push -u maestro de origen
